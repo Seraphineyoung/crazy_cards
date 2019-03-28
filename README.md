@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with Create React App. that the user should "clone the project locally"
+This project was bootstrapped with Create React App. Clone the project locally
 
 Run front and backend to see the App.
 
